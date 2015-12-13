@@ -1,3 +1,12 @@
-var bulba = {"name":"Bulbassauro","description":"Chicote de trepadeira","type":":49,height:0.4}
+var pika = {"name":"Pikachu","description":"Rato elétrico bem fofinho","type":"electric","attack":55,height:0.4}
+var bulba = {"name":"Bulbassauro","description":"Chicote de trepadeira","type":"planta","attack":49,height:0.4}
 var charm = {"nome":"Charmander","drescription":"Esse é o cão chupando manga de fofinho":"fogo","attack":52,height:0.6}
-var sqrtl = {"nome":"Squirtle","description":"Ejeta água que passarinho não bebe","attack":48,height:0.5}
+var sqrtl = {"nome":"Squirtle","description":"Ejeta água que passarinho não bebe","type":"água","attack":48,height:0.5}
+
+--- meus ---
+
+var meus_pokemons = [{"name":"Rattata","description":"É bicho solto","type":"normal",attack:56,defense:35,height:0.3},
+{"name":"Butterfree","description":"Manteiga livre","type":"inseto",attack:45,defense:50,height:1.1},
+{"name":"Metapod","description":"Não se mexe muito","type":"inseto",attack:20,defense:55,height:0.7},
+{"name":"Ekans","description":"Snake ao contrário","type":"veneno",attack:60,defense:44,height:2.0},
+{"name":"Dugtrio","description":"Toupera de três cabeças megalomaníaca","type":"terra",defense:50,attack:80,height:0.7}]
